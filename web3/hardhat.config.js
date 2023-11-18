@@ -1,7 +1,6 @@
 require("@nomicfoundation/hardhat-toolbox");
 
 /** @type import('hardhat/config').HardhatUserConfig */
-const PRIVATE_KEY = "a75773ef04e0fcd417f82b1c9b52e3c07912a7f82eacf05bca5796d9aa023cc7";
 const RPC_URL = "https://rpc.ankr.com/polygon_mumbai";
 module.exports = {
   defaultNetwork: "polygon_mumbai",
